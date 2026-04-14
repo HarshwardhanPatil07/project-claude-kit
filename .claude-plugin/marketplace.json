@@ -1,0 +1,14 @@
+{
+  "name": "project-claude-kit",
+  "owner": {
+    "name": "HarshwardhanPatil07"
+  },
+  "plugins": [
+    {
+      "name": "mco-tools",
+      "source": "./plugins/mco-tools",
+      "description": "Tools for migrating OpenShift MCO tests from openshift-tests-private to machine-config-operator",
+      "version": "1.0.0"
+    }
+  ]
+}
